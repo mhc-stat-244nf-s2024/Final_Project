@@ -1,0 +1,57 @@
+---
+title: "REPLACE THIS WITH AN INFORMATIVE TITLE"
+subtitle: "STAT 244NF: Infectious Disease Modeling"
+author: "YOUR NAME HERE"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+<!--Include text for introduction here -->
+
+# Simulations
+
+## Deterministic Simulation
+
+```{r fig.align='center'}
+
+```
+
+
+## Stochastic Simulations
+
+```{r fig.align='center'}
+
+```
+
+
+
+## Stochastic Simulations Incorporating Ranges for Disease Dynamics
+
+
+```{r fig.align='center'}
+
+```
+
+
+# Data Exploration
+
+
+# Discussion
+
+## Results and Conclusions
+
+<!-- Discussion of simulation results, summary of comparison with data, and conclusions about your simulation results -->
+
+## Limitations
+
+<!--Include limitations of your simulations here -->
+
+# References
+
+<!-- Include your list of references here. They can be mostly the same as your references for Project 1. See Final project assignment for details -->
